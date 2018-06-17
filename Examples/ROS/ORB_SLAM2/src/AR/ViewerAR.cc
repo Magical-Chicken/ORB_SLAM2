@@ -22,6 +22,8 @@
 
 #include <opencv2/highgui/highgui.hpp>
 
+#include <ctime>
+#include <unistd.h>
 #include <mutex>
 #include <thread>
 #include <cstdlib>
