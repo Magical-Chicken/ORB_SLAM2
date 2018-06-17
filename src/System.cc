@@ -22,6 +22,8 @@
 
 #include "System.h"
 #include "Converter.h"
+#include <ctime>
+#include <unistd.h>
 #include <thread>
 #include <pangolin/pangolin.h>
 #include <iomanip>
